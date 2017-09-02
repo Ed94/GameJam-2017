@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/laberith with mesh and ai.unity
+  isLoaded: 1
+  isActive: 1
